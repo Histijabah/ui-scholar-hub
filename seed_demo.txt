@@ -1,0 +1,5 @@
+Demo librarian login:
+admin@ui.edu.ng
+Admin@12345
+
+Sample records are seeded automatically on first run.
